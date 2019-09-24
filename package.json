@@ -1,0 +1,25 @@
+{
+  "name": "my-apollo-graphql-server",
+  "version": "1.0.0",
+  "description": "Apollo graphql server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cliff Crerar",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-micro": "^2.9.3",
+    "graphql": "^14.5.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffCrerar/my-apollo-graphql-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CliffCrerar/my-apollo-graphql-server/issues"
+  },
+  "homepage": "https://github.com/CliffCrerar/my-apollo-graphql-server#readme"
+}
